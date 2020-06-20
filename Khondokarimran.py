@@ -49,16 +49,22 @@ def jalan(z):
 ##### LOGO #####
 logo = """
                        
-                     
-▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
-░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
-▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       facebook:Easin.Official10
+                    
+▒█▀▀▀█
+██╗███╗░░░███╗██████╗░░█████╗░███╗░░██╗
+██║████╗░████║██╔══██╗██╔══██╗████╗░██║
+██║██╔████╔██║██████╔╝███████║██╔██╗██║
+██║██║╚██╔╝██║██╔══██╗██╔══██║██║╚████║
+██║██║░╚═╝░██║██║░░██║██║░░██║██║░╚███║
+╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+░▀▀▀▄▄
+
+       facebook:Khondokar.Imran273
 \033[1;91m=======================================
-\033[1;96mAuthor  \033[1;93m: \033[1;98mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1: md_easin
-\033[1;96mFacebook  \033[1;93m: \033[1: Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mAuthor  \033[1;93m: \033[1;98mimran
+\033[1;96mInstagram \033[1;93m: \033[1: khondokar_Imran
+\033[1;96mFacebook  \033[1;93m: \033[1: Khondokar.Imran273
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/khondokarimran/imran
 \033[1;91m======================================="""
 
 def tik():
@@ -71,7 +77,7 @@ back = 0
 berhasil = []
 cekpoint = []
 oks = []
-id = []
+id name = []
 listgrup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
@@ -81,20 +87,23 @@ print "\033[1;96m ============================================================="
 print  """\033[1;91m
  
             
-▒█▀▀▀█ ▒█▀▄▀█ ░█▀▀█ ▒█▀▀█ ▀▀█▀▀ 
-░▀▀▀▄▄ ▒█▒█▒█ ▒█▄▄█ ▒█▄▄▀ ░▒█░░ 
-▒█▄▄▄█ ▒█░░▒█ ▒█░▒█ ▒█░▒█ ░▒█░░
-       Facebook:Smart Boy Easin
+██╗███╗░░░███╗██████╗░░█████╗░███╗░░██╗
+██║████╗░████║██╔══██╗██╔══██╗████╗░██║
+██║██╔████╔██║██████╔╝███████║██╔██╗██║
+██║██║╚██╔╝██║██╔══██╗██╔══██║██║╚████║
+██║██║░╚═╝░██║██║░░██║██║░░██║██║░╚███║
+╚═╝╚═╝░░░░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝
+       Facebook:Khondokar.Imran273
  
-\033[1;96mAuthor  \033[1;93m: \033[1;92mSmart Boy Easin
-\033[1;96mInstagram \033[1;93m: \033[1;92mmd_easin
-\033[1;96mFacebook  \033[1;93m: \033[1;92m Easin.Official0
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/SmartBoyEasin/SmartBoy
+\033[1;96mAuthor  \033[1;93m: \033[1;92mimran
+\033[1;96mInstagram \033[1;93m: \033[1;92Khondokar_Imran
+\033[1;96mFacebook  \033[1;93m: \033[1;92m Khondokar.Imran273
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/khondokarimran/imran
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
-CorrectUsername = "easin"
-CorrectPassword = "easin"
+CorrectUsername = "imran"
+CorrectPassword = "khondokar"
 
 loop = 'true'
 while (loop == 'true'):
@@ -106,10 +115,10 @@ while (loop == 'true'):
             loop = 'false'
         else:
             print "Wrong Password"
-            os.system('xdg-open https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+            os.system('xdg-open https://www.facebook.com/Khondokar.Imran273 ')
     else:
         print "Wrong Username"
-        os.system('xdg-open  https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ ')
+        os.system('xdg-open https://www.facebook.com/Khondokar.Imran273   ')
 
 def login():
 	os.system('clear')
